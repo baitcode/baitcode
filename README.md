@@ -27,7 +27,7 @@ I was laid off a while ago and am open to collaboration opportunities.
 
 ### I've created:
 - Cairo Fixed Point math library - [link](https://github.com/baitcode/cairo-fixed-point-arithmetic)
-- Simple rust server for calculating TWAP using data from Pragma oracle - [link](https://github.com/baitcode/twapper)
+- Simple rust server for calculating BTC/USD TWAP using data from Pragma oracle - [link](https://github.com/baitcode/twapper)
 
 ### I'm currently building:
 - Auctions protocol in TON ecosystem and auction making dApp(miniapp) in Telegram. [link](https://ton-auctions.github.io/)
