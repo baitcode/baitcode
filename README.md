@@ -6,6 +6,9 @@ Currently I'm looking for work as a blockchain engineer or protocol engineer.
 
 I am a mathematician (5 years university training) and generalist software engineer (>15 years of experience).
 
+My account at online web30 educational platform: [NodeGuardians](https://nodeguardians.io/character/baitcode)
+My account at Starknet contribution platform: [OnlyDust](https://app.onlydust.com/u/baitcode)
+
 I've contributed:
 - Starknet.py (SNIP-9) [link](https://github.com/software-mansion/starknet.py/pull/1530) and more
 - Starknet Quest - main landing redesign [link](https://github.com/software-mansion/starknet.py/pull/1530)
