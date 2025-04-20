@@ -15,6 +15,7 @@ I was laid off a while ago and am open to collaboration opportunities.
 ### Various accounts:
 - [NodeGuardians](https://nodeguardians.io/character/baitcode) - online web3.0 educational initiative.
 - [OnlyDust](https://app.onlydust.com/u/baitcode) - Starknet ecosystem contribution platform.
+- [LinkedIn](https://www.linkedin.com/in/batiyiv) - You know, right?
 
 ### I've contributed:
 - Starknet.py (SNIP-9) [link](https://github.com/software-mansion/starknet.py/pull/1530) and more.
