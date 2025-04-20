@@ -13,7 +13,6 @@ I speak: Python, Kotlin, Golang, Cairo, TypeScript, and a bit of Solidity and Ru
 I was laid off a while ago and am open to collaboration opportunities.
 
 ### Various accounts:
-
 - [NodeGuardians](https://nodeguardians.io/character/baitcode) - online web3.0 educational initiative.
 - [OnlyDust](https://app.onlydust.com/u/baitcode) - Starknet ecosystem contribution platform.
 
@@ -28,6 +27,7 @@ I was laid off a while ago and am open to collaboration opportunities.
 
 ### I've created:
 - Cairo Fixed Point math library - [link](https://github.com/baitcode/cairo-fixed-point-arithmetic)
+- Simple rust server for calculating TWAP using data from Pragma oracle - [link](https://github.com/baitcode/twapper)
 
 ### I'm currently building:
 - Auctions protocol in TON ecosystem and auction making dApp(miniapp) in Telegram. [link](https://ton-auctions.github.io/)
