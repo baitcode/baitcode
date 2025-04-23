@@ -12,6 +12,8 @@ I speak: Python, Kotlin, Golang, Cairo, TypeScript, and a bit of Solidity and Ru
 
 I was laid off a while ago and am open to collaboration opportunities.
 
+[CV](./CVIliaBatii.pdf)
+
 ### Various accounts:
 - [NodeGuardians](https://nodeguardians.io/character/baitcode) - online web3.0 educational initiative.
 - [OnlyDust](https://app.onlydust.com/u/baitcode) - Starknet ecosystem contribution platform.
