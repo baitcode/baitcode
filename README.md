@@ -8,9 +8,7 @@ I’m a mathematician (5 years of university training) and a generalist software
 
 I'm well-skilled on the frontend with React and have experience building games and Chrome extensions in JavaScript. Most of my career has been in backend development, which I believe speaks for itself.
 
-I speak: Python, Kotlin, Golang, Cairo, TypeScript, and a bit of Solidity and Rust.
-
-I was laid off a while ago and am open to collaboration opportunities.
+I speak: Python, Kotlin, Golang, Cairo, TypeScript, Rust and a bit of Solidity.
 
 [CV](./CVIliaBatii.pdf)
 
