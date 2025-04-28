@@ -36,4 +36,4 @@ I speak: Python, Kotlin, Golang, Cairo, TypeScript, Rust and a bit of Solidity.
 
 ### Contests:
 
-- 2025.04.21-2025.04.28   (Tact Smart Battle)[https://codeforces.com/contest/2105/standings/page/1]   Rank: 139/665   Rating: 1002.5
+- 2025.04.21-28&nbsp;&nbsp;&nbsp;&nbsp;[Tact Smart Battle](https://codeforces.com/contest/2105/standings/page/1)&nbsp;&nbsp;&nbsp;&nbsp;Rank: 139/665&nbsp;&nbsp;&nbsp;&nbsp;Rating: 1002.5
