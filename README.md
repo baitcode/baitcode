@@ -4,7 +4,7 @@ I'm contributing to various projects in the Starknet and TON ecosystems. My main
 
 Currently, I'm looking for work as a blockchain engineer or protocol engineer.
 
-I’m a mathematician (5 years of university training) and a generalist software engineer with over 15 years of experience.
+I’m a mathematician (5 years of university training Specialist Degree diploma) and a generalist software engineer with over 15 years of experience.
 
 I'm well-skilled on the frontend with React and have experience building games and Chrome extensions in JavaScript. Most of my career has been in backend development, which I believe speaks for itself.
 
