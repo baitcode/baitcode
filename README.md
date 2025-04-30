@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm contributing to various projects in the Starknet and TON ecosystems. My main interests lie in DevOps for protocol engineering, blockchain research, and ZKP technologies for decentralized computation—particularly in connection with the gaming industry.
+I'm contributing to various projects in the Starknet and TON ecosystems. My main interests lie in DeFi, DevOps for protocol engineering, blockchain research, and ZKP technologies for decentralized computation—particularly in connection with the gaming industry.
 
 Currently, I'm looking for work as a blockchain engineer or protocol engineer.
 
