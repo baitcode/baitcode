@@ -6,11 +6,9 @@ Currently, I'm looking for work as a blockchain engineer or protocol engineer.
 
 I’m a mathematician (5 years of university training Specialist Degree diploma) and a generalist software engineer with over 15 years of experience.
 
-I'm well-skilled on the frontend with React and have experience building games and Chrome extensions in JavaScript. Most of my career has been in backend development, which I believe speaks for itself.
+I'm well-skilled in frontend development using React and have experience building games and Chrome extensions in JavaScript. Most of my career has been in backend development, so I'll let my [CV](./CVIliaBatii.pdf) to speak for itself.
 
-I speak: Python, Kotlin, Golang, Cairo, TypeScript, Rust and a bit of Solidity.
-
-[CV](./CVIliaBatii.pdf)
+I code in: Python, Kotlin, Golang, Cairo, TypeScript, Rust and a bit of Solidity.
 
 ### Various accounts:
 - [NodeGuardians](https://nodeguardians.io/character/baitcode) - online web3.0 educational initiative.
