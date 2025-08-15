@@ -2,7 +2,7 @@
 
 I'm contributing to various projects in the Starknet and TON ecosystems. My main interests lie in DeFi, DevOps for protocol engineering, blockchain research, and ZKP technologies for decentralized computation particularly in connection with the gaming industry.
 
-Currently, I'm looking for work as a blockchain engineer, protocol engineer, rust developer.
+Currently, I'm looking for work as a blockchain engineer, protocol engineer or rust developer.
 
 I’m a mathematician (5 years of university training Specialist Degree diploma) and a generalist software engineer with over 15 years of experience.
 
